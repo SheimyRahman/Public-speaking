@@ -8,13 +8,12 @@ The events are organized in reverse chronological order.
 
 ## 2019
 
-### Future
+### Future Talks
 
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
 | October 18th  | [UNISINOS Academic Week] | - |
 | September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | - |
-
 
 
 ### Past
@@ -27,7 +26,13 @@ The events are organized in reverse chronological order.
  
 ## 2018
 
-### Talks
+
+| Date     | Event          | Talk | Video |
+|----------|----------------|------|-------|
+| November 10th   | [DevFEST-BH](https://www.devfestbh.com/) | Visão Computacional usando o pacote GoCV | - |
+| November 17th | [WoMakersCode - Florianopolis/SC](https://www.sympla.com.br/womakerscode-summit-florianopolis__366881) |KEYNOTE A Importancia dos Iniciantes no Desenvolvimento de Software  | - |
+
+
 
 
 
