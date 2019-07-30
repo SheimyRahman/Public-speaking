@@ -4,7 +4,7 @@ A calendar with all my talks, past and future
 The objective of this repo is to consolidate in a single place all my participations at conferences, meetups and events in general.
 This calendar formation was forked with no shame from [Daniela Petruzalek](https://github.com/danicat) but with respect and admiration! 
 
-### Please, if you meet with me at one those places, do not be shy, I am "speaker type" person! and I always carry with me a lot of stickers, please, ask for some!
+*Please, if you meet with me at one those places, do not be shy, I am "speaker type" person! and I always carry with me a lot of stickers, please, ask for some!*
 
 The events are organized in reverse chronological order.
 
