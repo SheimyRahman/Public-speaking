@@ -14,7 +14,8 @@ The events are organized in reverse chronological order.
 
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
-| October 18th  | [UNISINOS Academic Week] | - |
+| October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | - |
+| October 19th  | [DEVFEST SUL](https://www.sympla.com.br/devfest-sul-2019__609373)| - |
 | September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | - |
 
 
