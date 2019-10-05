@@ -12,25 +12,26 @@ The events are organized in reverse chronological order.
 
 ### Future Talks :)
 
-| Date      | Event          | Talk | Video |
+| Date      | Event          | Talk | Video or Slides |
 |-----------|----------------|------|-------|
-| October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | - |
-| October 19th  | [DEVFEST SUL](https://www.sympla.com.br/devfest-sul-2019__609373)| - |
-| September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | - |
+| October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | Pareamento DEV + SRE: Expondo métricas através de uma API em GO e Prometheus | - |
+| October 19th  | [DEVFEST SUL](https://www.sympla.com.br/devfest-sul-2019__609373)| Visão Computacional com GO e OpenCV	IV | - |
+
 
 
 ### Past
 
-| Date     | Event          | Talk | Video |
+| Date     | Event          | Talk | Video or Slides |
 |----------|----------------|------|-------|
-| May 7   | [QCon-SP](https://qconsp.com/speakers/sp2019) | Visão Computacional com GO e OpenCV | - |
+| September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | - |
+| May 7   | [QCon-SP](https://qconsp.com/speakers/sp2019) | Visão Computacional com GO e OpenCV | https://www.infoq.com/br/presentations/visao-computacional-com-go-e-opencv/?itm_source=infoq&itm_campaign=user_page&itm_medium=link | - |
 | April 6th | [WomenTechMakers-POA] |  | - |
 
  
 ## 2018
 
 
-| Date     | Event          | Talk | Video |
+| Date     | Event          | Talk | Video or Slides |
 |----------|----------------|------|-------|
 | November 10th   | [DevFEST-BH](https://www.devfestbh.com/) | Visão Computacional usando o pacote GoCV | - |
 | November 17th | [WoMakersCode - Florianopolis/SC](https://www.sympla.com.br/womakerscode-summit-florianopolis__366881) |KEYNOTE A Importancia dos Iniciantes no Desenvolvimento de Software  | - |
