@@ -29,7 +29,8 @@ The events are organized in reverse chronological order.
 | October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | Pareamento DEV + SRE: Expondo métricas através de uma API em GO e Prometheus | https://speakerdeck.com/wdrwoman/culture-of-pairing-between-dev-plus-sre |
 | September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | https://speakerdeck.com/wdrwoman/classifier-not-so-from-scratch-with-gocv-and-tensorflow-hub|
 | May 7   | [QCon-SP](https://qconsp.com/speakers/sp2019) | Visão Computacional com GO e OpenCV | https://www.infoq.com/br/presentations/visao-computacional-com-go-e-opencv/?itm_source=infoq&itm_campaign=user_page&itm_medium=link | |
-| April 6th | [WomenTechMakers-POA] |  | - |
+| April 6th | [WomenTechMakers-POA] | Women in Tech | https://speakerdeck.com/wdrwoman/women-tech-makers |
+| March 8th | [Women's day] | Women in Tech | https://speakerdeck.com/wdrwoman/women-tech-makers |
 
  
 ## 2018
