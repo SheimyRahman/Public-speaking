@@ -41,6 +41,8 @@ The events are organized in reverse chronological order.
 | November 10th   | [DevFEST-BH](https://www.devfestbh.com/) | Visão Computacional usando o pacote GoCV |  https://speakerdeck.com/wdrwoman/visao-computacional-usando-o-pacote-gocv|
 | November 17th | [WoMakersCode - Florianopolis/SC](https://www.sympla.com.br/womakerscode-summit-florianopolis__366881) |KEYNOTE A Importancia dos Iniciantes no Desenvolvimento de Software  | https://speakerdeck.com/wdrwoman/a-importancia-dos-primeiros-passos-no-desenvolvimento-de-software |
 | October 24th | [First Porto Alegre Golang MeetUp](https://www.meetup.com/pt-BR/Porto-Alegre-GOlang-Meetup/881) |Go for Beginners | https://speakerdeck.com/wdrwoman/go-for-begineers |
+| September 27th | [GopherCon Brazil Lightning Talks](https://2018.gopherconbr.org/) |Importancia dos Iniciantes na Comunidade Go| 
+
 
 
 
