@@ -1,4 +1,4 @@
-# Public-speaking
+# Sheimy's Public-speaking
 A calendar with all my talks, past and future
 
 The objective of this repo is to consolidate in a single place all my participations at conferences, meetups and events in general.
