@@ -8,21 +8,24 @@ This calendar formation was forked with no shame from [Daniela Petruzalek](https
 
 The events are organized in reverse chronological order.
 
-## 2019
+## 2020
 
 ### Future Talks :)
 
 | Date      | Event          | Talk | Video or Slides |
 |-----------|----------------|------|-------|
-| October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | Pareamento DEV + SRE: Expondo métricas através de uma API em GO e Prometheus | - |
-| October 19th  | [DEVFEST SUL](https://www.sympla.com.br/devfest-sul-2019__609373)| Visão Computacional com GO e OpenCV	IV | - |
+| February 2th  | [FOSDEM](https://fosdem.org/2020/schedule/track/go/) | Classify things in Go: the easy way. Building classifiers quickly with the community contributions. | - |
+
 
 
 
 ### Past
 
+## 2019
+
 | Date     | Event          | Talk | Video or Slides |
 |----------|----------------|------|-------|
+| October 25th  | [Devopsdays Campinas](https://devopsdays.org/events/2019-campinas/welcome/) | Pareamento DEV + SRE: Expondo métricas através de uma API em GO e Prometheus | - |
 | September 27th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Classifier not so from scratch with GoCV and TensorFlow Hub | - |
 | May 7   | [QCon-SP](https://qconsp.com/speakers/sp2019) | Visão Computacional com GO e OpenCV | https://www.infoq.com/br/presentations/visao-computacional-com-go-e-opencv/?itm_source=infoq&itm_campaign=user_page&itm_medium=link | - |
 | April 6th | [WomenTechMakers-POA] |  | - |
