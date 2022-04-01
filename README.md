@@ -8,18 +8,36 @@ This calendar formation was forked with no shame from [Daniela Petruzalek](https
 
 The events are organized in reverse chronological order.
 
-## 2020
+## 2022
 
 ### Future Talks :)
 
 | Date      | Event          | Talk | Video or Slides |
 |-----------|----------------|------|-------|
-| February 2th  | [FOSDEM](https://fosdem.org/2020/schedule/track/go/) | Classify things in Go: the easy way. Building classifiers quickly with the community contributions. | - |
-
-
 
 
 ### Past
+
+## 2021
+
+
+| Date      | Event          | Talk | Video or Slides |
+|-----------|----------------|------|-------|
+|February 11th | [DEVOPSEXTREME](https://www.youtube.com/watch?v=O62VKQ7oPnE)| AIOps a filha moderninha da Skynet. | [Docs](https://github.com/badtuxx/DevOpsExtreme####) |
+|March 24th  | [ORACLE ROOM - TDC INNOVATION](https://promo.thedevelopersconference.com.br/tdcinnovation-oracle) [Docs](https://www.oracle.com/br/news/announcement/oracle-participate-tdc-innovation-2021-03-18/) | TrackHost | 
+|Jun 6th  | [THE DEVELOPERS CONF - GO TRACK](https://thedevconf.com/tdc/2020/floripaonline/trilha-go?) | Analytics e Golang SDK na OCI - Fazendo o inimaginável | 
+|Jun 7th | [ORACLE ROOM - TDC CONNECTIONS](https://promo.thedevconf.com/conn22-oracle) |  TrackHost | 
+|Jun 8th | [ML AND AI TRACK - TDC CONNECTIONS](https://thedevconf.com/tdc/2021/connections/trilha-inteligencia-artificial-e-machine-learning?) |  Qual o futuro quando falamos em Ética e Responsabilidade em IA? | 
+|Ago 25th | [ORACLE ROOM - TDC TRANSFORMATION](https://promo.thedevconf.com/transformation-oracle) |  TrackHost | 
+
+
+## 2020
+
+| Date      | Event          | Talk | Video or Slides |
+|-----------|----------------|------|-------|
+| February 2th  | [FOSDEM](https://fosdem.org/2020/schedule/track/go/) | Classify things in Go: the easy way. Building classifiers quickly with the community contributions. | [Slide Presentation](https://speakerdeck.com/wdrwoman/classify-things-in-go-the-easy-way-building-classifiers-quickly-with-the-community-contributions) |
+| April 18th | [LINUXTIPS](https://www.youtube.com/watch?v=2cCiO4MlzbM)| Classify things in Go: the easy way. Building classifiers quickly with the community contributions. | [Slide Presentation](https://speakerdeck.com/wdrwoman/number-ficaemcasaconf-classify-things-in-go-the-easy-way) |
+
 
 ## 2019
 
