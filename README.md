@@ -8,15 +8,28 @@ This calendar formation was forked with no shame from [Daniela Petruzalek](https
 
 The events are organized in reverse chronological order.
 
-## 2022
+
 
 ### Future Talks :)
 
 | Date      | Event          | Talk | Video or Slides |
 |-----------|----------------|------|-------|
 
-
 ### Past
+
+## 2023
+
+| Date      | Event          | Talk | Video or Slides |
+|-----------|----------------|------|-------|
+|April 2023 |Oracle CloudWorld Tour São Paulo | Application Modernization | |
+|March 2023| DevTestsBR Meetup |Mulheres no Mercado de TI e os layoffs | |
+
+
+## 2022
+| Date      | Event          | Talk | Video or Slides |
+|-----------|----------------|------|-------|
+|Aug 2022| GopherCon UK -  The drunk Gopher’s Walk: A talk about fuzzy. | |
+
 
 ## 2021
 
