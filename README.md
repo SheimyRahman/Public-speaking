@@ -28,7 +28,7 @@ The events are organized in reverse chronological order.
 ## 2022
 | Date      | Event          | Talk | Video or Slides |
 |-----------|----------------|------|-------|
-|Aug 2022| GopherCon UK -  The drunk Gopher’s Walk: A talk about fuzzy. | |
+|Aug 2022| GopherCon UK| The drunk Gopher’s Walk: A talk about fuzzy. | |
 
 
 ## 2021
